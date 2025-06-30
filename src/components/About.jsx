@@ -79,7 +79,11 @@ const About = () => {
           />
         </motion.div>
         <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-          I’m Aryan Karfa — a passionate frontend developer who loves turning ideas into interactive, modern web experiences. I specialize in responsive design, component-based architectures, and building products that *feel alive*. I believe in clean code, clear structure, and coding with heart ❤️.
+          I'm a frontend-focused developer with a passion for turning ideas into interactive, user-first digital experiences. Whether it's building a YouTube Transcript Visualizer to simplify content analysis, crafting a dynamic portfolio to showcase creative identity, or designing intuitive features for a streaming recommender app — I thrive at the intersection of function, design, and purpose.
+
+          Driven by curiosity and a builder’s mindset, I take pride in solving real-world problems through clean UI, scalable code, and thoughtful user flows. I move fast, learn faster, and bring energy to every project — from polished production work to experimental side builds.
+
+          Currently exploring opportunities where I can grow, contribute meaningfully, and push the boundaries of what the frontend can do.
         </p>
 
         {/* Skill Tags */}

@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+h2, h3 {
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+}
+
+html {
+  scroll-behavior: smooth;
+}

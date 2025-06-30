@@ -4,6 +4,7 @@ import About from './components/About';
 import ParticlesBackground from './components/ParticlesBackground';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Certifications from './components/Certifications';
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
         </section>
         <section id="projects">
           <Projects/>
+        </section>
+        <section id="certifications">
+          <Certifications />
         </section>
         <section id="contact">
           <Contact />

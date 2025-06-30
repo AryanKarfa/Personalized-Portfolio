@@ -19,8 +19,8 @@ const skillGroups = [
     title: "Languages",
     skills: [
       { name: "C", level: 85 },
-      { name: "C++", level: 40 },
-      { name: "Java", level: 35 },
+      { name: "C++", level: 30 },
+      { name: "Java", level: 45 },
       { name: "Python", level: 50 },
     ],
   },

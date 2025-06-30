@@ -27,7 +27,7 @@ const skillGroups = [
   {
     title: "Tools & Design",
     skills: [
-      { name: "Git & GitHub", level: 90 },
+      { name: "Git & GitHub", level: 75 },
       { name: "Canva", level: 80 },
     ],
   },

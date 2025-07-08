@@ -20,7 +20,16 @@ const projects = [
     demo: "#",
   },
   {
-    title: "Love Gallery",
+    title: "Song Gallery",
+    tagline: "Musical. Aesthetic. Heartfelt.",
+    description:
+      "A melody-driven visual gallery that combines smooth animations, emotional gradients, and personal song selections — designed to convey stories through music and code.",
+    tech: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/AryanKarfa/SONG-GALLERY",
+    demo: "#",
+  }
+  {
+    title: "Song Gallery",
     tagline: "Personal. Emotional. Animated.",
     description:
       "A romantic visual experience with floating hearts, rotating photo gallery, and background music — made to express love through code.",
@@ -28,7 +37,6 @@ const projects = [
     github: "https://github.com/AryanKarfa/LOVE-GALLERY",
     demo: "#",
   },
-  
   {
     title: "ChainMint",
     tagline: "NFT minting experience — UI meets Web3",

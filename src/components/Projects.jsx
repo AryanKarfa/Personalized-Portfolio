@@ -27,9 +27,9 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/AryanKarfa/SONG-GALLERY",
     demo: "#",
-  }
+  },
   {
-    title: "Song Gallery",
+    title: "Love Gallery",
     tagline: "Personal. Emotional. Animated.",
     description:
       "A romantic visual experience with floating hearts, rotating photo gallery, and background music — made to express love through code.",

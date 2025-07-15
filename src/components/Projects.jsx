@@ -2,21 +2,21 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "GitHub Wrapped",
+    tagline: "Your Dev Journey, Visualized.",
+    description:
+      "A full-stack web app that gives you a personalized GitHub Wrapped — showcasing your top repositories, most used languages, total commits, and more. Includes animated charts, downloadable snapshot, and GitHub OAuth authentication.",
+    tech: ["React", "Vite", "Tailwind CSS", "Node.js", "Express", "Passport.js", "GitHub OAuth"],
+    github: "https://github.com/AryanKarfa/GitHub-Wrapped",
+    demo: "#",
+  },
+  {
     title: "YouTube Summarizer",
     tagline: "AI-powered transcript-to-summary tool",
     description:
       "Fetches YouTube video transcripts and summarizes them using Gemini AI — built for content digestion at scale.",
     tech: ["Python", "Gemini AI", "Transcript API"],
     github: "https://github.com/AryanKarfa/YouTube-Summarizer",
-    demo: "#",
-  },
-  {
-    title: "AI Portfolio",
-    tagline: "Designed by mind, driven by minimalism",
-    description:
-      "A full creative portfolio built with HTML/CSS/JS, inspired by AI design patterns and aesthetic balance.",
-    tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/AryanKarfa/PORTFOLIO---by-aiwallah",
     demo: "#",
   },
   {
